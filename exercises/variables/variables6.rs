@@ -8,3 +8,6 @@ const NUMBER: i32 = 3;
 fn main() {
     println!("Number {}", NUMBER);
 }
+
+// Constants are always immutable and they are declared with keyword 'const' rather
+// than keyword 'let'.
